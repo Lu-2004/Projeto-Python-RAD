@@ -1,4 +1,4 @@
-Grupo da Disciplina de Python RAD da UniRuy.
+Grupo da Disciplina de Python RAD da Faculdade UniRuy - docente Roney Malaguti.
 
 Discentes:
 
